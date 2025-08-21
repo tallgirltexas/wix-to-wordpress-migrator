@@ -67,7 +67,7 @@ webdriver-manager>=3.8.0
 
 1. **Run the script**:
    ```bash
-   python wix_migrator.py
+   python wix_to_wordpress_migrator.py
    ```
 
 2. **Enter your Wix website URL** when prompted:

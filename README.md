@@ -37,7 +37,7 @@ A comprehensive Python tool for migrating blog content from Wix websites to Word
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/wix-to-wordpress-migrator.git
+   git clone https://github.com/tallgirltexas/wix-to-wordpress-migrator.git
    cd wix-to-wordpress-migrator
    ```
 

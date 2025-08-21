@@ -38,6 +38,11 @@ A comprehensive Python tool for migrating blog content from Wix websites to Word
 - Python 3.7 or higher
 - Google Chrome browser (for Selenium functionality)
 
+## WordPress Plugins to install for images
+- Install and configure the Auto Upload Plugin for Images before you run the import and it will grab the images as they come in and change to your WP URL.
+(download here: https://wordpress.org/plugins/auto-upload-images/)
+- If You need featured images, download this plugin (https://wordpress.org/plugins/quick-featured-images/). From the All Posts view, you can use this plugin to bulk edit and "resave" the posts to assign featured images to all posts. No actual edits or changes need to be made, but just resaving the posts will assign the images as long as #1 above has been completed.
+
 ## 🚀 Installation
 
 1. **Clone the repository**:

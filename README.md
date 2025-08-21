@@ -2,6 +2,11 @@
 
 A comprehensive Python tool for migrating blog content from Wix websites to WordPress. This tool scrapes blog posts from Wix sites, cleans the HTML content, and creates WordPress-compatible import files.
 
+## 📸 Example Output
+![Migration Demo](images/wix-to-wordpress.jpg)
+
+*Example of the script running and successfully migrating blog posts*
+
 ## 🌟 Features
 
 - **Complete Blog Scraping**: Automatically finds and scrapes all blog posts from Wix sites

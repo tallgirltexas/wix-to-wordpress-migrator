@@ -222,10 +222,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📊 Success Stories
 
 This tool has been successfully used to migrate:
-- Personal blogs with 50-500 posts
-- Business websites with complex layouts
+- Personal blogs with 50-125 posts
 - Sites with embedded images and media
-- Multi-category blog structures
+
 
 ## 🔗 Related Tools
 

@@ -91,7 +91,7 @@ webdriver-manager>=3.8.0
 You can also use the classes directly in your own scripts:
 
 ```python
-from wix_migrator import WixBlogScraper, clean_wix_content
+from wix_to_wordpress_migrator import WixBlogScraper, clean_wix_content
 
 # Initialize scraper
 scraper = WixBlogScraper("https://www.example.com")
